@@ -1,9 +1,3 @@
-/*
- * De bai: Nhap vao hai so thuc a va b tu ban phim.
- * Tinh tong va trung binh cong cua hai so
- * Input: Hai so thuc a, b
- * Output: Tong hai so va trung binh cong
- */
 #include <iostream>
 using namespace std;
 int main() {
